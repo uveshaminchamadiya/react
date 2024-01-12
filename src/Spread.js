@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Spread() {
-    const numbers = [1, 2, 3, 4, 5, 6];
+    const numbers = ['item-1','item-2','item-3','item-4','item-5','item-6','item-7','item-8'];
     const [one, two, ...rest] = numbers;
     return (
         <>
