@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Map() {
-    const myArray = ['apple', 'banana', 'orange'];
+    const myArray = ['item-1', 'item-2', 'item-3'];
 
     // first way to fetch data
     // const myList = myArray.map((item) => <p>{item}</p>)
