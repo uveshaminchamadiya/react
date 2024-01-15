@@ -11,6 +11,9 @@ function Events() {
       <h3>Events Example</h3>
       <button onClick={() => myFun("Click Event Demo")}>Click Me!</button>
       <br />
+      <br />
+      <hr />
+      <br />
     </>
   )
 }

@@ -10,6 +10,8 @@ function Spread() {
             <p>{two}</p>
             <p>{rest}</p>
             <br />
+            <hr />
+            <br />
         </>
   )
 }

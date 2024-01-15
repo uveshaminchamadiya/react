@@ -17,6 +17,8 @@ function Map() {
             return <li>{item}</li>
         })}
         </ul>
+        <br />
+        <hr />
         <br/>
         </>
     )

@@ -12,6 +12,9 @@ function UseState() {
         <button onClick={()=> setSubject("PHP")}>PHP</button>&nbsp;&nbsp;
         <button onClick={()=> setSubject("React.js")}>React.js</button>
         <br />
+        <br />
+        <hr />
+        <br />
     </>
   )
 }
